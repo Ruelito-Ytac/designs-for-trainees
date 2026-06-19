@@ -75,6 +75,31 @@
           "fontWeight": "normal"
         }
       ]
+    },
+    {
+      "type": "frame",
+      "id": "z5Z9n",
+      "x": 1912,
+      "y": -34,
+      "name": "Shawn Frame new",
+      "clip": true,
+      "width": 800,
+      "height": 600,
+      "fill": "#FFFFFF",
+      "layout": "none",
+      "children": [
+        {
+          "type": "text",
+          "id": "SM8Oy",
+          "x": 175,
+          "y": 164,
+          "fill": "#000000",
+          "content": "RUEL",
+          "fontFamily": "Inter",
+          "fontSize": 16,
+          "fontWeight": "normal"
+        }
+      ]
     }
   ]
 }
