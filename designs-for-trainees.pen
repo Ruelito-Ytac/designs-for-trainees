@@ -4,8 +4,8 @@
     {
       "type": "frame",
       "id": "bi8Au",
-      "x": 0,
-      "y": 0,
+      "x": 193,
+      "y": -34,
       "name": "Ruel Frame",
       "clip": true,
       "width": 800,
@@ -20,6 +20,56 @@
           "y": 164,
           "fill": "#000000",
           "content": "RUEL",
+          "fontFamily": "Inter",
+          "fontSize": 16,
+          "fontWeight": "normal"
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "Kn8bB",
+      "x": 193,
+      "y": -34,
+      "name": "Ruel Frame",
+      "clip": true,
+      "width": 800,
+      "height": 600,
+      "fill": "#FFFFFF",
+      "layout": "none",
+      "children": [
+        {
+          "type": "text",
+          "id": "qTYrV",
+          "x": 175,
+          "y": 164,
+          "fill": "#000000",
+          "content": "RUEL",
+          "fontFamily": "Inter",
+          "fontSize": 16,
+          "fontWeight": "normal"
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "dR8PJ",
+      "x": 1048,
+      "y": -34,
+      "name": "Daryll Frame",
+      "clip": true,
+      "width": 800,
+      "height": 600,
+      "fill": "#FFFFFF",
+      "layout": "none",
+      "children": [
+        {
+          "type": "text",
+          "id": "s9iONh",
+          "x": 175,
+          "y": 164,
+          "fill": "#000000",
+          "content": "Daryll",
           "fontFamily": "Inter",
           "fontSize": 16,
           "fontWeight": "normal"
