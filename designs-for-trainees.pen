@@ -4,8 +4,8 @@
     {
       "type": "frame",
       "id": "bi8Au",
-      "x": 0,
-      "y": 0,
+      "x": -48,
+      "y": 9,
       "name": "Ruel Frame",
       "clip": true,
       "width": 800,
@@ -16,6 +16,31 @@
         {
           "type": "text",
           "id": "Mdjko",
+          "x": 175,
+          "y": 164,
+          "fill": "#000000",
+          "content": "RUEL",
+          "fontFamily": "Inter",
+          "fontSize": 16,
+          "fontWeight": "normal"
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "MCJgy",
+      "x": -48,
+      "y": 754,
+      "name": "Shawn Frame",
+      "clip": true,
+      "width": 800,
+      "height": 600,
+      "fill": "#FFFFFF",
+      "layout": "none",
+      "children": [
+        {
+          "type": "text",
+          "id": "qWufi",
           "x": 175,
           "y": 164,
           "fill": "#000000",
